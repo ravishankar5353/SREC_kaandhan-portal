@@ -1,0 +1,53 @@
+{
+  "name": "Santhiram Engineering College (SREC)",
+  "shortName": "SREC Nandyal",
+  "portalTitle": "SREC Kaandhan College Management Portal 2026",
+  "established": "2007",
+  "founder": "Dr. M. Santhiramudu",
+  "principal": "Dr. M. V. Subramanyam, M.Tech, Ph.D",
+  "collegeCode": "SREC",
+  "counsellingCodes": {
+    "eapcet": "SREC",
+    "icet": "SREC",
+    "pgcet": "SREC"
+  },
+  "affiliation": "Affiliated to JNTUA, Ananthapuramu",
+  "approvals": "Approved by AICTE, New Delhi & Govt. of Andhra Pradesh",
+  "accreditation": {
+    "naac": "Accredited by NAAC with 'A+' Grade",
+    "nba": "NBA Accredited (CSE & ECE Departments)",
+    "autonomous": "UGC Autonomous Institution (Conferred by UGC & JNTUA)",
+    "iso": "ISO 9001:2015 Certified"
+  },
+  "contact": {
+    "address": "NH-40, Nerawada 'X' Roads, Nandyal, Kurnool District, Andhra Pradesh - 518501",
+    "phone": "+91 8514-275339 / 275340",
+    "mobile": "+91 98492 41188 / 94402 91488",
+    "email": "principal@srecnandyal.edu.in",
+    "admissionsEmail": "admissions@srecnandyal.edu.in",
+    "cdcEmail": "placements@srecnandyal.edu.in",
+    "website": "https://www.srecnandyal.edu.in"
+  },
+  "campus": {
+    "area": "40+ Lush Green Acres",
+    "builtUpArea": "3,50,000+ sq. ft.",
+    "libraryBooks": "45,000+ Volumes & DELNET/NDL e-Resources",
+    "computerLabs": "1,200+ High-End Core i7 / i9 Workstations with 1 Gbps Fiber",
+    "hostels": "Separate AC / Non-AC Hostels for Boys & Girls (1,000+ Capacity)",
+    "transport": "Fleet of 45+ Air-conditioned & Deluxe College Buses across Nandyal, Kurnool, Allagadda, Koilkuntla",
+    "healthcare": "Tie-up with 1000-bed Santhiram Medical College & General Hospital (24/7 Emergency Care)"
+  },
+  "vision": "To emerge as a premier center of technical excellence in higher education by imparting quality engineering and management education, fostering innovative research, and nurturing socially responsible, ethically grounded global professionals.",
+  "mission": [
+    "To provide student-centric, outcome-based engineering and management education with state-of-the-art infrastructure and industry-aligned curricula.",
+    "To foster a culture of cutting-edge research, innovation, entrepreneurship, and continuous learning among faculty and students.",
+    "To establish strong collaborative partnerships with global industries, premier academic institutions, and research organizations.",
+    "To instill ethical values, leadership qualities, environmental consciousness, and social responsibility for sustainable nation building."
+  ],
+  "credits": {
+    "developer": "Y. Ravi Shankar",
+    "rollNo": "24X51A05Y9",
+    "trainer": "Mr. Mahesh (Code Tantra Trainer)",
+    "academicYear": "2025 - 2026"
+  }
+}

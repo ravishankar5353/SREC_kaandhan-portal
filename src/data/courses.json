@@ -1,0 +1,229 @@
+[
+  {
+    "id": "btech-cse",
+    "name": "B.Tech in Computer Science & Engineering",
+    "code": "CSE",
+    "level": "Undergraduate",
+    "department": "Computer Science & Engineering",
+    "duration": "4 Years (8 Semesters)",
+    "intake": 180,
+    "eligibility": "10+2 / Intermediate with MPC (Mathematics, Physics, Chemistry) and rank in AP EAPCET / JEE Mains.",
+    "annualFee": "₹43,000 / Year (As per APSCHE Norms)",
+    "accreditation": "NBA Accredited & NAAC 'A+'",
+    "regulation": "Autonomous R23",
+    "description": "Comprehensive program covering Data Structures, Algorithms, DBMS, Operating Systems, Computer Networks, AI, Cloud Computing, and Full Stack Web Development.",
+    "careers": ["Software Engineer", "Full Stack Developer", "Cloud Architect", "Systems Analyst", "Cybersecurity Specialist"],
+    "curriculumHighlights": [
+      "Semester 1-2: Engineering Physics, Calculus, Python Programming, Digital Logic",
+      "Semester 3-4: Data Structures & OOP in Java, Computer Organization, DBMS, Discrete Math",
+      "Semester 5-6: Design & Analysis of Algorithms, Operating Systems, Computer Networks, Software Engineering",
+      "Semester 7-8: AI & Machine Learning, Cloud Computing, Major Capstone Industry Project & Internship"
+    ]
+  },
+  {
+    "id": "btech-csm",
+    "name": "B.Tech in CSE (Artificial Intelligence & Machine Learning)",
+    "code": "CSM",
+    "level": "Undergraduate",
+    "department": "CSE (AI & ML)",
+    "duration": "4 Years (8 Semesters)",
+    "intake": 120,
+    "eligibility": "10+2 / Intermediate with MPC and qualifying rank in AP EAPCET / JEE Mains.",
+    "annualFee": "₹43,000 / Year (As per APSCHE Norms)",
+    "accreditation": "AICTE Approved & Autonomous",
+    "regulation": "Autonomous R23",
+    "description": "Specialized curriculum focusing on Artificial Intelligence algorithms, Deep Learning neural networks, Natural Language Processing, Computer Vision, and Reinforcement Learning.",
+    "careers": ["AI Engineer", "Machine Learning Specialist", "NLP Engineer", "Computer Vision Researcher", "Data Scientist"],
+    "curriculumHighlights": [
+      "Semester 1-2: Foundations of AI, Linear Algebra, Python for AI, Probability & Statistics",
+      "Semester 3-4: Machine Learning Fundamentals, Neural Networks, Advanced Data Structures, Big Data Tools",
+      "Semester 5-6: Deep Learning architectures, Computer Vision with OpenCV, NLP & Transformer Models",
+      "Semester 7-8: Generative AI & LLMs, Robotics, AI Ethics, Industry Capstone Project"
+    ]
+  },
+  {
+    "id": "btech-csd",
+    "name": "B.Tech in CSE (Data Science)",
+    "code": "CSD",
+    "level": "Undergraduate",
+    "department": "CSE (Data Science)",
+    "duration": "4 Years (8 Semesters)",
+    "intake": 60,
+    "eligibility": "10+2 with Mathematics, Physics & Chemistry with AP EAPCET rank.",
+    "annualFee": "₹43,000 / Year (As per APSCHE Norms)",
+    "accreditation": "AICTE Approved & Autonomous",
+    "regulation": "Autonomous R23",
+    "description": "Rigorous training in Statistical Inference, Big Data Analytics, Predictive Analytics, Tableau/PowerBI, and Data Engineering pipelines.",
+    "careers": ["Data Scientist", "Data Engineer", "Business Intelligence Analyst", "Big Data Architect"],
+    "curriculumHighlights": [
+      "Semester 1-2: Statistical Computing, Python & R Programming, Exploratory Data Analysis",
+      "Semester 3-4: Applied Statistics, Big Data Ecosystem (Hadoop & Spark), Data Wrangling",
+      "Semester 5-6: Predictive Analytics, Data Mining, Cloud Data Warehousing (Snowflake/BigQuery)",
+      "Semester 7-8: Advanced Analytics Studio, Industry Internship, Capstone Dissertation"
+    ]
+  },
+  {
+    "id": "btech-ece",
+    "name": "B.Tech in Electronics & Communication Engineering",
+    "code": "ECE",
+    "level": "Undergraduate",
+    "department": "Electronics & Communication Engineering",
+    "duration": "4 Years (8 Semesters)",
+    "intake": 120,
+    "eligibility": "10+2 / Intermediate with MPC and rank in AP EAPCET / JEE Mains.",
+    "annualFee": "₹43,000 / Year (As per APSCHE Norms)",
+    "accreditation": "NBA Accredited & NAAC 'A+'",
+    "regulation": "Autonomous R23",
+    "description": "Covers Electronic Devices & Circuits, VLSI Design, Embedded Systems, Digital Signal Processing, IoT, and 5G Wireless Communications.",
+    "careers": ["VLSI Design Engineer", "Embedded Systems Engineer", "Telecom Specialist", "Hardware Developer"],
+    "curriculumHighlights": [
+      "Semester 1-2: Basic Electrical & Electronics, Circuit Theory, C Programming, Engineering Chemistry",
+      "Semester 3-4: Electronic Devices, Analog Circuits, Digital IC Design, Signals & Systems",
+      "Semester 5-6: Microprocessors & Microcontrollers, VLSI Design (Verilog/VHDL), DSP, Antennas",
+      "Semester 7-8: Wireless & 5G Communications, IoT Systems, Optical Fiber Networks, Project Work"
+    ]
+  },
+  {
+    "id": "btech-eee",
+    "name": "B.Tech in Electrical & Electronics Engineering",
+    "code": "EEE",
+    "level": "Undergraduate",
+    "department": "Electrical & Electronics Engineering",
+    "duration": "4 Years (8 Semesters)",
+    "intake": 60,
+    "eligibility": "10+2 with MPC and rank in AP EAPCET / ECET for Lateral Entry.",
+    "annualFee": "₹43,000 / Year (As per APSCHE Norms)",
+    "accreditation": "NAAC 'A+' & AICTE Approved",
+    "regulation": "Autonomous R23",
+    "description": "Studies Electrical Machines, Power Transmission & Distribution, Power Electronics, Renewable Green Energy, and Electric Vehicles.",
+    "careers": ["Power Systems Engineer", "EV Powertrain Engineer", "Industrial Automation Engineer", "Substation Manager"],
+    "curriculumHighlights": [
+      "Semester 1-2: Fundamentals of Electrical Engineering, Engineering Graphics, Applied Physics",
+      "Semester 3-4: AC/DC Machines, Electromagnetic Fields, Power Electronics, Linear Control Systems",
+      "Semester 5-6: Power System Analysis, Switchgear & Protection, PLC & SCADA Automation",
+      "Semester 7-8: Electric Vehicle Technology, Smart Grid, Renewable Energy Systems, Final Project"
+    ]
+  },
+  {
+    "id": "btech-me",
+    "name": "B.Tech in Mechanical Engineering",
+    "code": "ME",
+    "level": "Undergraduate",
+    "department": "Mechanical Engineering",
+    "duration": "4 Years (8 Semesters)",
+    "intake": 60,
+    "eligibility": "10+2 with MPC and rank in AP EAPCET / ECET for Lateral Entry.",
+    "annualFee": "₹43,000 / Year (As per APSCHE Norms)",
+    "accreditation": "NAAC 'A+' & AICTE Approved",
+    "regulation": "Autonomous R23",
+    "description": "Covers Thermodynamics, Fluid Mechanics, CAD/CAM/CAE, Additive Manufacturing (3D Printing), Robotics, and Automotive Systems.",
+    "careers": ["Mechanical Design Engineer", "Robotics Engineer", "Automotive Specialist", "Manufacturing Consultant"],
+    "curriculumHighlights": [
+      "Semester 1-2: Engineering Mechanics, Workshop Practice, Material Science",
+      "Semester 3-4: Thermodynamics, Mechanics of Solids, Kinematics of Machinery, Fluid Mechanics",
+      "Semester 5-6: Heat Transfer, Design of Machine Elements, CAD/CAM, Automobile Engineering",
+      "Semester 7-8: Robotics & Automation, Operations Research, CNC Machining, Industrial Internship"
+    ]
+  },
+  {
+    "id": "btech-civil",
+    "name": "B.Tech in Civil Engineering",
+    "code": "CIVIL",
+    "level": "Undergraduate",
+    "department": "Civil Engineering",
+    "duration": "4 Years (8 Semesters)",
+    "intake": 60,
+    "eligibility": "10+2 with MPC and rank in AP EAPCET / ECET for Lateral Entry.",
+    "annualFee": "₹43,000 / Year (As per APSCHE Norms)",
+    "accreditation": "NAAC 'A+' & AICTE Approved",
+    "regulation": "Autonomous R23",
+    "description": "Covers Structural Engineering, Geotechnical Engineering, Environmental Water Quality, Highway Engineering, and Total Station Surveying.",
+    "careers": ["Structural Engineer", "Site Construction Manager", "Highway/Transport Engineer", "Urban Planner"],
+    "curriculumHighlights": [
+      "Semester 1-2: Engineering Drawing, Surveying Basics, Strength of Materials",
+      "Semester 3-4: Structural Analysis, Fluid Mechanics, Geotechnical Engineering, Concrete Technology",
+      "Semester 5-6: Design of Reinforced Concrete Structures, Steel Structures, Environmental Engineering",
+      "Semester 7-8: Transportation Engineering, Estimation & Costing, GIS & Remote Sensing, Project"
+    ]
+  },
+  {
+    "id": "mtech-cse",
+    "name": "M.Tech in Computer Science & Engineering",
+    "code": "MTECH-CSE",
+    "level": "Postgraduate",
+    "department": "Computer Science & Engineering",
+    "duration": "2 Years (4 Semesters)",
+    "intake": 18,
+    "eligibility": "B.E./B.Tech in CSE/IT or equivalent with rank in AP PGCET / GATE.",
+    "annualFee": "₹50,000 / Year (As per APSCHE Norms)",
+    "accreditation": "AICTE Approved & JNTUA Affiliated",
+    "regulation": "Autonomous R23",
+    "description": "Advanced postgraduate curriculum in distributed computing, cloud architecture, deep learning algorithms, cryptographic protocols, and independent research thesis.",
+    "careers": ["Research Scientist", "Lead Architect", "University Professor", "Senior Software Consultant"],
+    "curriculumHighlights": [
+      "Advanced Data Structures & Algorithms, High Performance Computing",
+      "Distributed Cloud Computing, Deep Neural Networks, Advanced Cryptography",
+      "Research Methodology & IPR, Comprehensive Viva-Voce",
+      "One Full Year Industrial Project Work & Research Dissertation"
+    ]
+  },
+  {
+    "id": "mtech-vlsi",
+    "name": "M.Tech in VLSI & Embedded Systems",
+    "code": "MTECH-VLSI",
+    "level": "Postgraduate",
+    "department": "Electronics & Communication Engineering",
+    "duration": "2 Years (4 Semesters)",
+    "intake": 18,
+    "eligibility": "B.E./B.Tech in ECE/EEE/EIE with rank in AP PGCET / GATE.",
+    "annualFee": "₹50,000 / Year (As per APSCHE Norms)",
+    "accreditation": "AICTE Approved & JNTUA Affiliated",
+    "regulation": "Autonomous R23",
+    "description": "In-depth training in ASIC/FPGA design, analog & mixed-signal IC design, ARM SoC architectures, and real-time embedded systems.",
+    "careers": ["ASIC Design Engineer", "FPGA Verification Engineer", "SoC Architect", "Embedded Firmware Lead"],
+    "curriculumHighlights": [
+      "CMOS Analog IC Design, Digital VLSI Design with Cadence Tools",
+      "Real Time Operating Systems (RTOS), System-on-Chip (SoC) Design",
+      "Low Power VLSI, Hardware-Software Co-Design, Research Seminar",
+      "Full Year Industry Dissertation / Lab Research"
+    ]
+  },
+  {
+    "id": "mba",
+    "name": "Master of Business Administration (MBA)",
+    "code": "MBA",
+    "level": "Postgraduate",
+    "department": "Master of Business Administration",
+    "duration": "2 Years (4 Semesters)",
+    "intake": 120,
+    "eligibility": "Any recognized Bachelor's Degree with minimum 50% marks and rank in AP ICET.",
+    "annualFee": "₹35,000 / Year (As per APSCHE Norms)",
+    "accreditation": "AICTE Approved & JNTUA Affiliated",
+    "regulation": "Autonomous R23",
+    "description": "Dual specialization in Marketing, Finance, Human Resource Management, and Business Analytics with corporate live projects and executive leadership bootcamps.",
+    "careers": ["Business Development Manager", "Financial Analyst", "HR Business Partner", "Marketing Strategist", "Operations Consultant"],
+    "curriculumHighlights": [
+      "Semester 1-2: Management & Organizational Behavior, Managerial Economics, Financial Accounting, Business Statistics, Marketing Management",
+      "Semester 3-4: Dual Specialization Electives (Finance/Marketing/HR/Analytics), Strategic Management, Corporate Internship & Project Report"
+    ]
+  },
+  {
+    "id": "mca",
+    "name": "Master of Computer Applications (MCA)",
+    "code": "MCA",
+    "level": "Postgraduate",
+    "department": "Master of Computer Applications",
+    "duration": "2 Years (4 Semesters)",
+    "intake": 60,
+    "eligibility": "BCA / B.Sc / B.Com / B.A with Mathematics at 10+2 or Degree level and rank in AP ICET.",
+    "annualFee": "₹35,000 / Year (As per APSCHE Norms)",
+    "accreditation": "AICTE Approved & JNTUA Affiliated",
+    "regulation": "Autonomous R23",
+    "description": "Postgraduate professional course in enterprise Java, Python, cloud computing, modern React/Node full stack frameworks, database engineering, and software testing.",
+    "careers": ["Enterprise Software Developer", "Database Administrator", "Cloud DevOps Engineer", "Mobile App Developer"],
+    "curriculumHighlights": [
+      "Semester 1-2: Advanced Java, Python & Web Technologies, Operating Systems, DBMS & NoSQL, Software Engineering",
+      "Semester 3-4: Cloud Computing, Full Stack React/Node Development, Information Security, Major Industrial Project"
+    ]
+  }
+]

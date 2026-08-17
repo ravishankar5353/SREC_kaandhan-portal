@@ -1,0 +1,330 @@
+[
+  {
+    "id": "cse",
+    "code": "CSE",
+    "name": "Computer Science & Engineering",
+    "degree": "B.Tech & M.Tech",
+    "established": "2007",
+    "intake": 180,
+    "accreditation": "NBA Accredited & NAAC 'A+'",
+    "hod": {
+      "name": "Dr. K. Srinivasulu",
+      "designation": "Professor & Head of Department",
+      "qualification": "Ph.D (CSE), M.Tech",
+      "experience": "18+ Years",
+      "email": "hod.cse@srecnandyal.edu.in",
+      "phone": "+91 98492 41188 Ext. 101"
+    },
+    "facultyCount": 38,
+    "studentCount": 720,
+    "labs": [
+      "Advanced AI & Cloud Computing Lab (NVIDIA GPUs)",
+      "Object Oriented Programming & Java Lab",
+      "Database Management Systems & Big Data Lab",
+      "Network Security & Cryptography Center",
+      "Full Stack Web Development & DevOps Lab"
+    ],
+    "description": "The Department of Computer Science & Engineering is NBA accredited and committed to producing top-tier software engineers, AI developers, and computer scientists through robust curricula, industry internships, and hands-on coding bootcamps.",
+    "keyAchievements": [
+      "94% Campus placement rate in Tier-1 product and services MNCs.",
+      "Smart India Hackathon national finalist teams.",
+      "12+ Research patents filed and 65+ Scopus/SCI journal papers published.",
+      "Active Centre of Excellence in Cloud Computing and AI."
+    ],
+    "icon": "Code",
+    "badgeColor": "indigo"
+  },
+  {
+    "id": "csm",
+    "code": "CSM",
+    "name": "CSE (Artificial Intelligence & Machine Learning)",
+    "degree": "B.Tech & M.Tech",
+    "established": "2020",
+    "intake": 120,
+    "accreditation": "AICTE Approved & Autonomous",
+    "hod": {
+      "name": "Dr. P. Venkata Subbaiah",
+      "designation": "Professor & HOD (AI & ML)",
+      "qualification": "Ph.D, M.Tech (AI)",
+      "experience": "16+ Years",
+      "email": "hod.aiml@srecnandyal.edu.in",
+      "phone": "+91 98492 41188 Ext. 102"
+    },
+    "facultyCount": 22,
+    "studentCount": 480,
+    "labs": [
+      "Deep Learning & Computer Vision Lab",
+      "Natural Language Processing (NLP) & GenAI Lab",
+      "Robotics & Intelligent Systems Lab",
+      "TensorFlow & PyTorch High Performance Center"
+    ],
+    "description": "Focused on cutting-edge deep learning, generative AI, neural networks, computer vision, and cognitive computing to prepare graduates for high-impact roles in artificial intelligence industries worldwide.",
+    "keyAchievements": [
+      "Industry partnership with AWS Academy and NVIDIA Deep Learning Institute.",
+      "Highest placement package of 24 LPA secured by student in Machine Learning role.",
+      "8 Research papers in IEEE Transactions and Springer."
+    ],
+    "icon": "Cpu",
+    "badgeColor": "purple"
+  },
+  {
+    "id": "csd",
+    "code": "CSD",
+    "name": "CSE (Data Science)",
+    "degree": "B.Tech",
+    "established": "2021",
+    "intake": 60,
+    "accreditation": "AICTE Approved & Autonomous",
+    "hod": {
+      "name": "Dr. R. Madhavi Latha",
+      "designation": "Associate Professor & HOD (Data Science)",
+      "qualification": "Ph.D (Data Analytics), M.Tech",
+      "experience": "14+ Years",
+      "email": "hod.ds@srecnandyal.edu.in",
+      "phone": "+91 98492 41188 Ext. 103"
+    },
+    "facultyCount": 14,
+    "studentCount": 240,
+    "labs": [
+      "Big Data Analytics & Apache Spark Lab",
+      "Data Visualization & Tableau / PowerBI Studio",
+      "Statistical Computing & R / Python Lab",
+      "Predictive Modeling & Business Intelligence Lab"
+    ],
+    "description": "Equips students with rigorous statistical foundations, machine learning pipelines, big data infrastructure, and business visualization techniques for data engineering and data science careers.",
+    "keyAchievements": [
+      "100% internship placement for final year students in analytics firms.",
+      "Data science projects deployed for regional agricultural and healthcare analytics."
+    ],
+    "icon": "Database",
+    "badgeColor": "blue"
+  },
+  {
+    "id": "ece",
+    "code": "ECE",
+    "name": "Electronics & Communication Engineering",
+    "degree": "B.Tech & M.Tech (VLSI & Embedded)",
+    "established": "2007",
+    "intake": 120,
+    "accreditation": "NBA Accredited & NAAC 'A+'",
+    "hod": {
+      "name": "Dr. T. Mallikarjuna",
+      "designation": "Professor & Head of Department",
+      "qualification": "Ph.D, M.Tech (VLSI)",
+      "experience": "19+ Years",
+      "email": "hod.ece@srecnandyal.edu.in",
+      "phone": "+91 98492 41188 Ext. 104"
+    },
+    "facultyCount": 30,
+    "studentCount": 480,
+    "labs": [
+      "Cadence & Synopsys VLSI Design Center",
+      "Embedded Systems & ARM / IoT Microcontrollers Lab",
+      "Microwave, Antenna & Wireless Communication Lab",
+      "Digital Signal Processing & MATLAB Simulation Lab",
+      "Analog & Digital Circuits Hardware Lab"
+    ],
+    "description": "The NBA-accredited ECE department provides strong domain skills in semiconductor design, VLSI, IoT architecture, 5G wireless communications, and embedded firmware development.",
+    "keyAchievements": [
+      "Cadence EDA Tool suite installed with 50 user licenses.",
+      "Students recruited by core semiconductor giants like Qualcomm, Intel, and Texas Instruments.",
+      "MODROBS funding grant received from AICTE for VLSI lab modernization."
+    ],
+    "icon": "Radio",
+    "badgeColor": "cyan"
+  },
+  {
+    "id": "eee",
+    "code": "EEE",
+    "name": "Electrical & Electronics Engineering",
+    "degree": "B.Tech & M.Tech",
+    "established": "2007",
+    "intake": 60,
+    "accreditation": "NAAC 'A+' & AICTE Approved",
+    "hod": {
+      "name": "Dr. G. Ramesh Chandra",
+      "designation": "Professor & Head of Department",
+      "qualification": "Ph.D, M.Tech (Power Systems)",
+      "experience": "17+ Years",
+      "email": "hod.eee@srecnandyal.edu.in",
+      "phone": "+91 98492 41188 Ext. 105"
+    },
+    "facultyCount": 18,
+    "studentCount": 240,
+    "labs": [
+      "Electrical Machines & Transformers Lab",
+      "Power Electronics, Drives & Renewable Energy Center",
+      "Power Systems Simulation & ETAP Lab",
+      "Control Systems & PLC Automation Lab",
+      "Electric Vehicle (EV) Powertrain Research Unit"
+    ],
+    "description": "Prepares future electrical engineers in power systems, smart grid technologies, green energy generation, electric vehicles, and industrial PLC automation systems.",
+    "keyAchievements": [
+      "500 kW on-campus Solar Power Plant research monitoring station.",
+      "Extensive campus recruitments in energy and core manufacturing sectors."
+    ],
+    "icon": "Zap",
+    "badgeColor": "amber"
+  },
+  {
+    "id": "me",
+    "code": "ME",
+    "name": "Mechanical Engineering",
+    "degree": "B.Tech & M.Tech",
+    "established": "2008",
+    "intake": 60,
+    "accreditation": "NAAC 'A+' & AICTE Approved",
+    "hod": {
+      "name": "Dr. B. Sudhakar",
+      "designation": "Professor & Head of Department",
+      "qualification": "Ph.D, M.Tech (Thermal & CAD/CAM)",
+      "experience": "20+ Years",
+      "email": "hod.me@srecnandyal.edu.in",
+      "phone": "+91 98492 41188 Ext. 106"
+    },
+    "facultyCount": 16,
+    "studentCount": 240,
+    "labs": [
+      "CAD/CAM, SolidWorks & ANSYS Simulation Center",
+      "CNC Machining & Advanced Manufacturing Workshop",
+      "Thermal Engineering & IC Engines Lab",
+      "Fluid Mechanics & Hydraulic Machinery Lab",
+      "Metallurgy & Material Testing Lab"
+    ],
+    "description": "Comprehensive mechanical engineering program emphasizing CAD/CAM/CAE, additive manufacturing (3D printing), robotics, thermal systems, and automotive design.",
+    "keyAchievements": [
+      "SAE BAJA all-terrain vehicle national competition participation.",
+      "Industrial consultancy in precision manufacturing and CAD simulation."
+    ],
+    "icon": "Cog",
+    "badgeColor": "orange"
+  },
+  {
+    "id": "civil",
+    "code": "CIVIL",
+    "name": "Civil Engineering",
+    "degree": "B.Tech",
+    "established": "2010",
+    "intake": 60,
+    "accreditation": "NAAC 'A+' & AICTE Approved",
+    "hod": {
+      "name": "Dr. C. Venkateswarlu",
+      "designation": "Professor & Head of Department",
+      "qualification": "Ph.D, M.Tech (Structural Engg.)",
+      "experience": "16+ Years",
+      "email": "hod.civil@srecnandyal.edu.in",
+      "phone": "+91 98492 41188 Ext. 107"
+    },
+    "facultyCount": 14,
+    "studentCount": 240,
+    "labs": [
+      "Structural Analysis & STAAD.Pro / AutoCAD Lab",
+      "Geotechnical & Soil Mechanics Engineering Lab",
+      "Concrete Technology & Highway Materials Lab",
+      "Environmental Engineering & Water Quality Lab",
+      "Advanced Surveying with Total Station & GPS"
+    ],
+    "description": "Trains civil engineers in sustainable infrastructure, structural analysis, transportation engineering, green building concepts, and environmental water resource management.",
+    "keyAchievements": [
+      "Consultancy services for third-party quality audits for municipal and state infrastructure.",
+      "MoU with leading construction and infrastructure organizations."
+    ],
+    "icon": "Home",
+    "badgeColor": "emerald"
+  },
+  {
+    "id": "hs",
+    "code": "H&S",
+    "name": "Humanities & Sciences",
+    "degree": "Foundational / B.Tech 1st Year",
+    "established": "2007",
+    "intake": 720,
+    "accreditation": "Autonomous & NAAC 'A+'",
+    "hod": {
+      "name": "Dr. N. Sujatha",
+      "designation": "Professor & Head of Department",
+      "qualification": "Ph.D (Applied Mathematics), M.Sc",
+      "experience": "18+ Years",
+      "email": "hod.hs@srecnandyal.edu.in",
+      "phone": "+91 98492 41188 Ext. 108"
+    },
+    "facultyCount": 28,
+    "studentCount": 720,
+    "labs": [
+      "Advanced Interactive English Communication Skills Lab",
+      "Engineering Physics & Laser Optics Lab",
+      "Engineering Chemistry & Instrumental Analysis Lab",
+      "Computational Mathematics & Numerical Methods Studio"
+    ],
+    "description": "Builds fundamental analytical, mathematical, scientific, and soft-skill communication competencies for all first-year undergraduate engineering students.",
+    "keyAchievements": [
+      "Cambridge English & British Council certification training programs.",
+      "100% student induction and foundation bridge programs."
+    ],
+    "icon": "BookOpen",
+    "badgeColor": "rose"
+  },
+  {
+    "id": "mba",
+    "code": "MBA",
+    "name": "Master of Business Administration",
+    "degree": "MBA (Dual Specialization)",
+    "established": "2009",
+    "intake": 120,
+    "accreditation": "AICTE Approved & Affiliated to JNTUA",
+    "hod": {
+      "name": "Dr. M. Sreenivasulu",
+      "designation": "Professor & Head of Department",
+      "qualification": "Ph.D (Management), MBA",
+      "experience": "21+ Years",
+      "email": "hod.mba@srecnandyal.edu.in",
+      "phone": "+91 98492 41188 Ext. 109"
+    },
+    "facultyCount": 16,
+    "studentCount": 240,
+    "labs": [
+      "Business Analytics & Financial Modeling Lab",
+      "Digital Marketing & E-Commerce Lab",
+      "Management Development & Case Study Boardroom",
+      "Stock Market Simulation & Trading Terminal"
+    ],
+    "description": "Premier postgraduate management program offering dual specializations in Finance, Marketing, Human Resources, and Business Analytics with continuous corporate mentorship.",
+    "keyAchievements": [
+      "90%+ Placements in banking, financial services, logistics, and FMCG sectors.",
+      "Annual National Management Fest 'SAMIKSHA' organizing committee."
+    ],
+    "icon": "Briefcase",
+    "badgeColor": "teal"
+  },
+  {
+    "id": "mca",
+    "code": "MCA",
+    "name": "Master of Computer Applications",
+    "degree": "MCA (2 Years)",
+    "established": "2009",
+    "intake": 60,
+    "accreditation": "AICTE Approved & Affiliated to JNTUA",
+    "hod": {
+      "name": "Dr. K. V. Subba Reddy",
+      "designation": "Associate Professor & Head of Department",
+      "qualification": "Ph.D, MCA, M.Tech",
+      "experience": "15+ Years",
+      "email": "hod.mca@srecnandyal.edu.in",
+      "phone": "+91 98492 41188 Ext. 110"
+    },
+    "facultyCount": 12,
+    "studentCount": 120,
+    "labs": [
+      "Enterprise Application Development & Spring Boot Lab",
+      "Mobile App Development (Flutter & React Native) Lab",
+      "Cloud Infrastructure & Linux System Administration Lab"
+    ],
+    "description": "Comprehensive two-year postgraduate degree in software application architecture, cloud computing, modern frontend/backend frameworks, and enterprise software engineering.",
+    "keyAchievements": [
+      "Over 92% placement conversion in IT application and software services.",
+      "Annual technical project symposium 'TECHNOFEST'."
+    ],
+    "icon": "Terminal",
+    "badgeColor": "cyan"
+  }
+]

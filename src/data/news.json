@@ -1,0 +1,57 @@
+[
+  {
+    "id": "news-1",
+    "title": "SREC Nandyal Conferred UGC Autonomous Status with NAAC 'A+' Re-Accreditation",
+    "category": "Accreditation",
+    "date": "2026-08-10",
+    "badge": "Important",
+    "summary": "University Grants Commission (UGC) and JNTUA have extended the autonomous status of Santhiram Engineering College, recognizing high research output and 94% placement record.",
+    "content": "The UGC expert committee highly commended the institution's state-of-the-art AI labs, Cadence VLSI EDA tools, modern central library, and green solar campus.",
+    "author": "Office of the Principal",
+    "isUrgent": true
+  },
+  {
+    "id": "news-2",
+    "title": "B.Tech AP EAPCET 2026 Admissions Counselling Phase-I Commences (Code: SREC)",
+    "category": "Admissions",
+    "date": "2026-08-08",
+    "badge": "Admissions 2026",
+    "summary": "Eligible candidates are advised to exercise Web Options with college code 'SREC' for B.Tech in CSE, CSM, CSD, ECE, EEE, ME, and Civil branches.",
+    "content": "Full fee reimbursement (Jagananna Vidya Deevena) is applicable for eligible Andhra Pradesh state rank holders.",
+    "author": "Admissions Directorate",
+    "isUrgent": true
+  },
+  {
+    "id": "news-3",
+    "title": "Microsoft & Amazon On-Campus Placement Drive for 2026 Passing Batch Announced",
+    "category": "Placements",
+    "date": "2026-08-05",
+    "badge": "CDC Drive",
+    "summary": "Career Development Cell (CDC) invites eligible final year students for technical coding rounds scheduled from August 28th.",
+    "content": "Registered students can access mock coding assessments on the CDC portal and SREC CodeTantra LMS platform.",
+    "author": "Dean Placements & CDC",
+    "isUrgent": false
+  },
+  {
+    "id": "news-4",
+    "title": "Autonomous End-Semester Examination Timetables Released (R23 / R20 Regulations)",
+    "category": "Examinations",
+    "date": "2026-08-01",
+    "badge": "Exam Cell",
+    "summary": "B.Tech, M.Tech, MBA, and MCA regular and supplementary theory examination schedules are now available for student download.",
+    "content": "Hall tickets will be generated online through the Student Portal beginning 3 days before exam commencement.",
+    "author": "Controller of Examinations",
+    "isUrgent": false
+  },
+  {
+    "id": "news-5",
+    "title": "SREC Team Secures 1st Prize in National Level Smart India Hackathon (SIH 2026)",
+    "category": "Achievements",
+    "date": "2026-07-28",
+    "badge": "Award",
+    "summary": "A 6-member student team from CSE & CSM won ₹1,00,000 cash prize for an AI-based healthcare diagnostic platform developed for rural primary health centers.",
+    "content": "Chairman Dr. M. Santhiramudu and Principal Dr. M. V. Subramanyam felicitated the winners with merit scholarships.",
+    "author": "R&D Cell",
+    "isUrgent": false
+  }
+]
